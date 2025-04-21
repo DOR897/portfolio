@@ -1,0 +1,54 @@
+/* Navbar */
+.navbar-brand img {
+    border-radius: 10px;
+  }
+  
+  /* Hero Section */
+  .hero {
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.7);
+  }
+  
+  /* Resume Skills */
+  .skills-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+  }
+  
+  .skill-card {
+    text-align: center;
+    padding: 12px;
+    border-radius: 10px;
+    width: 90px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .skill-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .skill-card img {
+    display: block;
+    margin: 0 auto 8px;
+  }
+  
+  /* Section Headers */
+  section h2 {
+    font-weight: 600;
+    margin-bottom: 20px;
+    text-align: center;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 10px;
+  }
+  
+  /* Contact Links */
+  #contact a {
+    color: #0d6efd;
+    text-decoration: none;
+  }
+  
+  #contact a:hover {
+    text-decoration: underline;
+  }
