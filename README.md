@@ -17,7 +17,7 @@ This is a personal developer portfolio built with **React.js**, **Bootstrap 5**,
 
 ## 📸 Preview
 
-<img src="./public/assets/preview.gif" width="100%" alt="Portfolio Preview">
+https://portfolio-dor897s-projects.vercel.app/
 
 ---
 
