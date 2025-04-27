@@ -23,8 +23,17 @@ This is a personal developer portfolio built with **React.js**, **Bootstrap 5**,
 
 ## 📂 Project Structure
 
-portfolio/ ├── public/ │ └── assets/ │ └── skills/ ├── src/ │ ├── components/ │ ├── styles/ │ └── App.js ├── package.json └── README.md
-
+portfolio/
+├── public/
+│   └── assets/
+│       └── skills/
+│       └── screens/
+├── src/
+│   ├── components/
+│   ├── styles/
+│   └── App.js
+├── package.json
+└── README.md
 
 ---
 
