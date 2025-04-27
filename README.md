@@ -22,7 +22,8 @@ This is a personal developer portfolio built with **React.js**, **Bootstrap 5**,
 ---
 
 ## 📂 Project Structure
-
+📂 Project Structure
+```bash
 portfolio/
 ├── public/
 │   └── assets/
@@ -34,10 +35,9 @@ portfolio/
 │   └── App.js
 ├── package.json
 └── README.md
+```
 
----
-
-## 🧑‍💻 Getting Started
+🧑‍💻 Getting Started
 
 Follow these instructions to run the project locally.
 
