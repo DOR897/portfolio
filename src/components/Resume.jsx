@@ -28,7 +28,7 @@ export default function Resume() {
     </div>
           ))}
         </div>
-        <p className="mt-4"><strong>Languages:</strong> Hebrew (Native), English (Conversational)</p>
+        <p className="mt-4"><strong>Languages:</strong> Hebrew (Native), English (Fluent)</p>
         <p><strong>Volunteer:</strong> Perach Scholarship (2020-2023)</p>
       </section>
     );
