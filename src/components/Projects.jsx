@@ -5,7 +5,7 @@ export default function Projects() {
         <div className="row">
           <div className="col-md-6">
             <h5>VacationRes</h5>
-            <p>Backend reservation system for flight and hotel bookings using FastAPI, PostgreSQL, Docker.</p>
+            <p>Full-Stack reservation system for flight and hotel bookings using FastAPI, PostgreSQL,ReactJS with vite and Docker.</p>
           </div>
           <div className="col-md-6">
             <h5>Places to Visit</h5>
